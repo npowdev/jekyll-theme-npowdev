@@ -1,0 +1,11 @@
+{
+    // "previewServer": {
+    // "browsers": ["chrome"],
+    //     "ignoreDefaultBroswer": true,
+    //     "port": 4000,
+    //     "ui": {
+    //         "port": 3001,
+    //         "weinrePort": 8081
+    //     }
+    // }
+}
