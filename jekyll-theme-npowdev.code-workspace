@@ -14,9 +14,9 @@
 		// This means that you change your real URL (current PHP url) 
 		// to another URL (which Live Sever starts).
 		"liveServer.settings.proxy": {
-			"enable": true,                             //   i. enabled
-			"baseUri": "/_site/",                             //  ii. workspace
-			"proxyUri": "http://localhost:4000/" // iii. actual address
+			"enable": true,                         //   i. enabled
+			"baseUri": "/_site/",                   //  ii. workspace
+			"proxyUri": "http://localhost:4000/"	// iii. actual address
 		}
 
 	}
